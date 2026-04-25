@@ -63,78 +63,12 @@ A high-performance **distributed web crawler** that fetches web pages in paralle
 
 ---
 
-## Results Summary
 
-### Crawl Performance
+## How to Run
 
-| Metric | Value |
-|--------|-------|
-| URLs Attempted | 9 |
-| Successful Crawls | 6 |
-| Crawl Time (Dask) | 3.85 seconds |
-| Crawl Time (Sequential) | 3.97 seconds |
-| Speedup | 1.03x |
+Follow these steps to run the project:
 
-### Word Frequency Statistics
-
-| Metric | Value |
-|--------|-------|
-| Total Unique Words | 2,564 |
-| Total Word Occurrences | 4,430 |
-| Most Frequent Word | 'ago' (99 times) |
-
-### Top 10 Keywords
-
-| Rank | Word | Frequency |
-|------|------|-----------|
-| 1 | ago | 99 |
-| 2 | days | 52 |
-| 3 | hours | 50 |
-| 4 | points | 30 |
-| 5 | hide | 30 |
-| 6 | brief | 23 |
-| 7 | anthony | 17 |
-| 8 | technology | 16 |
-| 9 | day | 14 |
-| 10 | best | 14 |
-
-### Sentiment Analysis
-
-| Category | Count | Percentage |
-|----------|-------|------------|
-| Positive | 4 | 66.7% |
-| Neutral | 2 | 33.3% |
-| Negative | 0 | 0% |
-
-**Average Sentiment Score:** 0.121 (Slightly Positive)
-
-### Trending Keywords (Velocity)
-
-| Word | Increase |
-|------|----------|
-| hours | +2450% 🚀 |
-| points | +1450% |
-| hide | +1450% |
-| brief | +1100% |
-| anthony | +800% |
-
-### Source Authority Ranking
-
-| Source | Authority Score | Sentiment | Articles |
-|--------|-----------------|-----------|----------|
-| BBC | 0.95 ⭐⭐⭐⭐⭐ | 0.09 | 1 |
-| TechCrunch | 0.90 ⭐⭐⭐⭐⭐ | 0.15 | 1 |
-| WIRED | 0.88 ⭐⭐⭐⭐ | 0.10 | 2 |
-| The Verge | 0.85 ⭐⭐⭐⭐ | 0.14 | 1 |
-| Hacker News | 0.75 ⭐⭐⭐ | 0.15 | 1 |
-
----
-
-## How to Run Locally
-
-Follow these steps to run the project on your local machine or Google Colab:
-
-### Option 1: Google Colab (Recommended – No Installation)
+### Google Colab 
 
 1. **Open Google Colab**  
    [https://colab.research.google.com/](https://colab.research.google.com/)
@@ -156,15 +90,3 @@ Follow these steps to run the project on your local machine or Google Colab:
    - Check output in Colab
    - Open generated HTML dashboard
 
-### Option 2: Local Machine
-
-```bash
-# Clone the repository
-git clone https://github.com/YourUsername/distributed-web-crawler-dask.git
-cd distributed-web-crawler-dask
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Jupyter Notebook
-jupyter notebook Web_Crawler.ipynb
