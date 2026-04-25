@@ -36,30 +36,35 @@ A high-performance **distributed web crawler** that fetches web pages in paralle
 ## Screenshots
  
  **Dashboard Main View**
+ 
   ![Dashboard Main](images/dashboard_main.png) 
 
 **Top Keywords Analysis**
+
 ![Top Keywords](images/top_keywords.png) 
 
 **Performance Comparison**
+
 ![Performance](images/performance_chart.png)
 
 **Sentiment Distribution**
+
 ![Sentiment](images/sentiment_chart.png)
 
 **Trending Keywords**
 ![Trending](images/trending_words.png)
 
-**Source Authority Ranking**
-![Authority](images/source_authority.png)
-
 **Distributed Crawl Output**
-![Crawl Output](images/crawl_output.png)
+
+![Crawl Output](images/crawl_output01.png)
+![Crawl Output](images/crawl_output02.png)
 
 **Word Frequency Results**
+
 ![Word Frequency](images/word_frequency_output.png) 
 
 **Dashboard Statistics**
+
 ![Dashboard Stats](images/dashboard_stats.png) 
 
 
