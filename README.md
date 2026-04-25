@@ -39,7 +39,7 @@ A high-performance **distributed web crawler** that fetches web pages in paralle
 
 | Dashboard Main View | Top Keywords Analysis |
 |:-------------------:|:---------------------:|
-| ![Dashboard Main](images/dashboard_main.png) | ![Top Keywords](images/top_keywords.png) |
+| ![Dashboard Main](dashboard main.png) | ![Top Keywords](images/top_keywords.png) |
 
 | Performance Comparison | Sentiment Distribution |
 |:---------------------:|:----------------------:|
