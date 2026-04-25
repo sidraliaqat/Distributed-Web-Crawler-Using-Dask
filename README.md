@@ -51,9 +51,6 @@ A high-performance **distributed web crawler** that fetches web pages in paralle
 
 ![Sentiment](images/sentiment_chart.png)
 
-**Trending Keywords**
-![Trending](images/trending_words.png)
-
 **Distributed Crawl Output**
 
 ![Crawl Output](images/imagescrawl_output01.png)
