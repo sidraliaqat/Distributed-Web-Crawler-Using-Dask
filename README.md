@@ -56,16 +56,16 @@ A high-performance **distributed web crawler** that fetches web pages in paralle
 
 **Distributed Crawl Output**
 
-![Crawl Output](images/crawl_output01.png)
-![Crawl Output](images/crawl_output02.png)
+![Crawl Output](images/imagescrawl_output01.png)
+![Crawl Output](images/imagescrawl_output02.png)
 
 **Word Frequency Results**
 
-![Word Frequency](images/word_frequency_output.png) 
+![Word Frequency](images/word_frequency_output.png.png) 
 
 **Dashboard Statistics**
 
-![Dashboard Stats](images/dashboard_stats.png) 
+![Dashboard Stats](images/dashboard_stats.png.png) 
 
 
 ---
